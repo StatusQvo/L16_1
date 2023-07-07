@@ -1,0 +1,9 @@
+body {
+  background-color: #92cee4;
+}
+
+form input {
+  margin-right: 20px;
+  outline: 3px rgba(95, 5, 107, 0.4) groove;
+  background-color: rgba(230, 181, 181, 0.6);
+}
